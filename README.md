@@ -9,10 +9,10 @@
 
 ## 🛠 기술 스택
 
-Backend: Flask (Python)
-컴퓨터 비전: OpenCV, MediaPipe
-머신러닝 분석: NumPy
-얼굴 탐지: MediaPipe Face Detection
+- Backend: Flask (Python)
+- 컴퓨터 비전: OpenCV, MediaPipe
+- 머신러닝 분석: NumPy
+- 얼굴 탐지: MediaPipe Face Detection
 
 ## 🖥 화면 구성
 
