@@ -43,7 +43,7 @@ MediaPipe를 활용한 얼굴 탐지
 ### pip 업그레이드
 python -m pip install --upgrade pip
 
-#### 의존성 패키지 설치
+### 의존성 패키지 설치
 pip install flask
 pip install opencv-python
 pip install mediapipe
